@@ -3,8 +3,10 @@
 # how to pembuatan api mudah
 
 buat dbnya dulu di mysql namanya
-php spark make:model nama-dbbebas
-php spark make:migration sama
+
+        php spark make:model nama-dbbebas
+
+        php spark make:migration sama
 
 setelah di buat migrationnya
 php spark migrate
